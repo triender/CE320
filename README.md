@@ -78,5 +78,3 @@ This project implements an automated irrigation system for plants using fuzzy lo
 *   **Timing Intervals**: Modify `dhtReadInterval`, `soilReadInterval`, and `logicDisplayInterval` to change how frequently tasks are performed.
 
 ---
-*Author: [Your Name/Group]*
-*Date: June 8, 2025*
